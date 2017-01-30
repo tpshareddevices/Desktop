@@ -1,0 +1,3 @@
+﻿2016-10-28 13:43:33.033 -0600	START		Running index.script
+2016-10-28 13:43:34.034 -0600	EndTestCase		(Duration:"0.163", Errors:"1", Exceptions:"0", StartTime:"2016-10-28 13:43:34 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-10-28 13:43:34.034 -0600	FAILURE		STDatabaseConnectionError Failed to connect to ODBC database odbc:24 Reason: [MySQL][ODBC 5.3(w) Driver]Invalid window handle, SQLSTATE=IM008 -- Execution Time 0:00:01 index.script

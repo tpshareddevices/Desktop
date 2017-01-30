@@ -1,0 +1,6 @@
+﻿put (type:"odbc", DSN:"Ubuntu Server", user:"tpshareddevices", password:"T3stPl4nt", database: "Test") into mydb
+put executeSQL(myDB, "select * from Users") into data
+log data
+put item 2 of data into record
+
+log record.lname

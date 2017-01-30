@@ -1,0 +1,51 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-10-28 13:22:25.025 -0600,"Failure",0:00:00,1,0,0,"20161028_132225.025/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:23:35.035 -0600,"Failure",0:00:00,1,0,0,"20161028_132335.035/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:24:37.037 -0600,"Failure",0:00:00,1,0,0,"20161028_132437.037/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:24:56.056 -0600,"Failure",0:00:00,1,0,0,"20161028_132456.056/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:25:53.053 -0600,"Failure",0:00:00,1,0,0,"20161028_132553.053/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:26:07.007 -0600,"Failure",0:00:00,1,0,0,"20161028_132607.007/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:27:05.005 -0600,"Failure",0:00:00,1,0,0,"20161028_132705.005/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:29:55.055 -0600,"Failure",0:00:00,1,0,0,"20161028_132955.055/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:30:58.058 -0600,"Failure",0:00:00,1,0,0,"20161028_133058.058/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:31:56.056 -0600,"Failure",0:00:00,1,0,0,"20161028_133156.056/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:32:14.014 -0600,"Failure",0:00:00,1,0,0,"20161028_133214.014/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:33:21.021 -0600,"Failure",0:00:00,1,0,0,"20161028_133321.021/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:33:38.038 -0600,"Failure",0:00:00,1,0,0,"20161028_133338.038/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:40:47.047 -0600,"Failure",0:00:00,1,0,0,"20161028_134047.047/LogFile.txt","","STDatabaseError -- Can't connect to database: clubDB",0
+2016-10-28 13:40:56.056 -0600,"Success",0:00:00,0,0,0,"20161028_134056.056/LogFile.txt","","",1
+2016-10-28 13:41:06.006 -0600,"Success",0:00:00,0,0,0,"20161028_134106.006/LogFile.txt","","",1
+2016-10-28 13:41:15.015 -0600,"Success",0:00:00,0,0,0,"20161028_134115.015/LogFile.txt","","",1
+2016-10-28 13:41:20.020 -0600,"Success",0:00:00,0,0,0,"20161028_134120.020/LogFile.txt","","",1
+2016-10-28 13:42:37.037 -0600,"Success",0:00:00,0,0,0,"20161028_134237.037/LogFile.txt","","",1
+2016-10-28 13:43:33.033 -0600,"Failure",0:00:00,1,0,0,"20161028_134333.033/LogFile.txt","","STDatabaseConnectionError -- Failed to connect to ODBC database odbc:24 Reason: [MySQL][ODBC 5.3(w) Driver]Invalid window handle, SQLSTATE=IM008",0
+2016-10-28 13:43:46.046 -0600,"Success",0:00:00,0,0,0,"20161028_134346.046/LogFile.txt","","",1
+2016-10-28 13:44:20.020 -0600,"Success",0:00:00,0,0,0,"20161028_134420.020/LogFile.txt","","",1
+2016-10-28 13:45:03.003 -0600,"Success",0:00:00,0,0,0,"20161028_134503.003/LogFile.txt","","",1
+2016-10-28 13:45:09.009 -0600,"Success",0:00:00,0,0,0,"20161028_134509.009/LogFile.txt","","",1
+2016-10-28 13:45:35.035 -0600,"Success",0:00:00,0,0,0,"20161028_134535.035/LogFile.txt","","",1
+2016-10-28 13:45:38.038 -0600,"Success",0:00:00,0,0,0,"20161028_134538.038/LogFile.txt","","",1
+2016-10-28 13:45:59.059 -0600,"Success",0:00:00,0,0,0,"20161028_134559.059/LogFile.txt","","",1
+2016-10-28 13:46:01.001 -0600,"Success",0:00:00,0,0,0,"20161028_134601.001/LogFile.txt","","",1
+2016-10-28 13:47:31.031 -0600,"Failure",0:00:00,1,0,0,"20161028_134731.031/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:48:28.028 -0600,"Failure",0:00:00,1,0,0,"20161028_134828.028/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]No database selected, SQLSTATE=3D000",0
+2016-10-28 13:48:39.039 -0600,"Failure",0:00:00,1,0,0,"20161028_134839.039/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:51:05.005 -0600,"Failure",0:00:00,1,0,0,"20161028_135105.005/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:51:52.052 -0600,"Failure",0:00:00,1,0,0,"20161028_135152.052/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:56:24.024 -0600,"Failure",0:00:00,1,0,0,"20161028_135624.024/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:56:31.031 -0600,"Failure",0:00:00,1,0,0,"20161028_135631.031/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0
+2016-10-28 13:56:48.048 -0600,"Success",0:00:00,0,0,0,"20161028_135648.048/LogFile.txt","","",1
+2016-10-28 13:57:09.009 -0600,"Success",0:00:00,0,0,0,"20161028_135709.009/LogFile.txt","","",1
+2016-10-28 14:00:35.035 -0600,"Success",0:00:00,0,0,0,"20161028_140035.035/LogFile.txt","","",1
+2016-10-28 14:02:31.031 -0600,"Success",0:00:00,0,0,0,"20161028_140231.031/LogFile.txt","","",1
+2016-10-28 14:04:27.027 -0600,"Success",0:00:00,0,0,0,"20161028_140427.027/LogFile.txt","","",1
+2016-10-28 14:06:00.000 -0600,"Success",0:00:00,0,0,0,"20161028_140600.000/LogFile.txt","","",1
+2016-10-28 14:06:13.013 -0600,"Success",0:00:00,0,0,0,"20161028_140613.013/LogFile.txt","","",1
+2016-10-28 14:07:50.050 -0600,"Success",0:00:00,0,0,0,"20161028_140750.050/LogFile.txt","","",1
+2016-10-28 14:08:35.035 -0600,"Success",0:00:00,0,0,0,"20161028_140835.035/LogFile.txt","","",1
+2016-10-28 14:08:56.056 -0600,"Success",0:00:00,0,0,0,"20161028_140856.056/LogFile.txt","","",1
+2016-10-28 14:11:36.036 -0600,"Success",0:00:00,0,0,0,"20161028_141136.036/LogFile.txt","","",1
+2016-10-28 14:11:55.055 -0600,"Success",0:00:00,0,0,0,"20161028_141155.055/LogFile.txt","","",1
+2016-10-28 14:12:03.003 -0600,"Success",0:00:00,0,0,0,"20161028_141203.003/LogFile.txt","","",1
+2016-10-28 14:12:11.011 -0600,"Success",0:00:00,0,0,0,"20161028_141211.011/LogFile.txt","","",1
+2016-10-28 14:12:34.034 -0600,"Success",0:00:00,0,0,0,"20161028_141234.034/LogFile.txt","","",1

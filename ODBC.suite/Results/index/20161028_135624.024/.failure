@@ -1,0 +1,1 @@
+2016-10-28 13:56:24.024 -0600,Failure,0:00:01,1,0,0,20161028_135624.024/LogFile.txt,"","ST_ODBC_ResultError -- [MySQL][ODBC 5.3(w) Driver][mysqld-5.7.16-0ubuntu0.16.04.1]Table 'Test.users' doesn't exist, SQLSTATE=42S02",0

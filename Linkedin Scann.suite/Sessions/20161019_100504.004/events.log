@@ -1,0 +1,28 @@
+1	0.000999987	start	
+2	5.094	mouseDown	{button:2, clickCount:1, hotSpot:[662.857178, 568.441101]}
+3	5.821	mouseUp	{button:2, clickCount:1, hotSpot:[662.857178, 568.441101]}
+4	9.833	mouseDown	{button:2, clickCount:1, hotSpot:[739.047607, 575.970154]}
+5	10.592	mouseUp	{button:2, clickCount:1, hotSpot:[739.047607, 575.970154]}
+6	10.594	mouseDown	{button:1, clickCount:1, hotSpot:[739.047607, 575.970154]}
+7	10.594	mouseUp	{button:1, clickCount:1, hotSpot:[739.047607, 575.970154]}
+8	15.864	mouseDown	{button:1, clickCount:1, hotSpot:[1137.777832, 24.46936]}
+9	16.588	mouseUp	{button:1, clickCount:1, hotSpot:[1137.777832, 24.46936]}
+10	24.178	mouseDown	{button:2, clickCount:1, hotSpot:[1033.650879, 799.958496]}
+11	24.961	mouseUp	{button:2, clickCount:1, hotSpot:[1033.650879, 799.958496]}
+12	34.304	mouseDown	{button:1, clickCount:1, hotSpot:[1013.333374, 777.37146]}
+13	35.088	mouseUp	{button:1, clickCount:1, hotSpot:[1013.333374, 777.37146]}
+14	39.718	mouseDown	{button:1, clickCount:1, hotSpot:[1026.03186, 792.429504]}
+15	40.499	mouseUp	{button:1, clickCount:1, hotSpot:[1026.03186, 792.429504]}
+16	43.296	mouseDown	{button:1, clickCount:1, hotSpot:[683.174683, 799.958496]}
+17	44.622	mouseDown	{button:2, clickCount:1, hotSpot:[586.666748, 801.84082]}
+18	45.419	mouseUp	{button:2, clickCount:1, hotSpot:[579.047607, 801.84082]}
+19	47.416	mouseUp	{button:1, clickCount:0, hotSpot:[540.952393, 801.84082]}
+20	48.721	mouseDown	{button:1, clickCount:1, hotSpot:[576.507935, 841.368164]}
+21	49.471	mouseUp	{button:1, clickCount:1, hotSpot:[576.507935, 841.368164]}
+22	52.97	mouseDown	{button:1, clickCount:1, hotSpot:[685.714355, 799.958496]}
+23	56.595	mouseUp	{button:1, clickCount:0, hotSpot:[535.873047, 796.194031]}
+24	58.025	mouseDown	{button:2, clickCount:1, hotSpot:[576.507935, 799.958496]}
+25	58.796	mouseUp	{button:2, clickCount:1, hotSpot:[576.507935, 799.958496]}
+26	62.563	mouseDown	{button:1, clickCount:1, hotSpot:[637.460327, 879.013245]}
+27	63.361	mouseUp	{button:1, clickCount:1, hotSpot:[637.460327, 879.013245]}
+28	74.92	end	

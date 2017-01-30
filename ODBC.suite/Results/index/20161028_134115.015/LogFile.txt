@@ -1,0 +1,4 @@
+﻿2016-10-28 13:41:15.015 -0600	START		Running index.script
+2016-10-28 13:41:15.015 -0600	Log		(database:(DSN:"Ubuntu Server", objectType:"database", password:"T3stPl4nt", type:"odbc", user:"tpshareddevices"), name:"users", objectType:"table")	7	on_index	index.script
+2016-10-28 13:41:15.015 -0600	EndTestCase		(Duration:"0.176", Errors:"0", Exceptions:"0", StartTime:"2016-10-28 13:41:15 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-28 13:41:15.015 -0600	SUCCESS		Execution Time 0:00:00 index.script

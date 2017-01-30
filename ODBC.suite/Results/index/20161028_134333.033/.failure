@@ -1,0 +1,1 @@
+2016-10-28 13:43:33.033 -0600,Failure,0:00:01,1,0,0,20161028_134333.033/LogFile.txt,"","STDatabaseConnectionError -- Failed to connect to ODBC database odbc:24 Reason: [MySQL][ODBC 5.3(w) Driver]Invalid window handle, SQLSTATE=IM008",0

@@ -1,0 +1,5 @@
+﻿2016-10-28 14:08:56.056 -0600	START		Running index.script
+2016-10-28 14:08:56.056 -0600	Log		((address:"2995 Wilderness", fname:"Randy", ID:"1", lname:"Hesse"))	3	on_index	index.script
+2016-10-28 14:08:56.056 -0600	Log		Hesse	4	on_index	index.script
+2016-10-28 14:08:56.056 -0600	EndTestCase		(Duration:"0.192", Errors:"0", Exceptions:"0", StartTime:"2016-10-28 14:08:56 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-28 14:08:56.056 -0600	SUCCESS		Execution Time 0:00:00 index.script

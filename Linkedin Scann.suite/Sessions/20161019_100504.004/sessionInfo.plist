@@ -1,0 +1,24 @@
+{
+    commandList = "[{captureRect:[627, 551, 697, 581], command:@\"RightClick\", eventNum:2, hotSpot:[6.6285717799999998e+002, 5.6844110100000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0002.png\"}, {command:@\"RightClick\", eventNum:4, hotSpot:[7.3904760699999997e+002, 5.7597015399999998e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0004.png\"}, {command:@\"Click\", eventNum:6, hotSpot:[7.3904760699999997e+002, 5.7597015399999998e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0004.png\"}, {command:@\"Click\", eventNum:8, hotSpot:[1.1377778320000000e+003, 2.4469360000000002e+001], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0008.png\"}, {command:@\"RightClick\", eventNum:10, hotSpot:[1.0336508790000000e+003, 7.9995849599999997e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0010.png\"}, {command:@\"Click\", eventNum:12, hotSpot:[1.0133333739999999e+003, 7.7737146000000007e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0012.png\"}, {command:@\"Click\", eventNum:14, hotSpot:[1.0260318600000001e+003, 7.9242950399999995e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0014.png\"}, {command:@\"RightClick\", eventNum:17, hotSpot:[5.8666674799999998e+002, 8.0184082000000012e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0017.png\"}, {command:@\"Click\", eventNum:20, hotSpot:[5.7650793499999997e+002, 8.4136816399999998e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0020.png\"}, {command:@\"Drag\", eventNum:22, hotSpot:[6.8571435499999995e+002, 7.9995849599999997e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0022.png\"}, {command:@\"Drop\", eventNum:22, hotSpot:[5.3587304699999993e+002, 7.9619403100000000e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0023.png\"}, {command:@\"RightClick\", eventNum:24, hotSpot:[5.7650793499999997e+002, 7.9995849599999997e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0024.png\"}, {command:@\"Click\", eventNum:26, hotSpot:[6.3746032700000001e+002, 8.7901324499999998e+002], imageName:@\"\", screenShotFile:@\"C:/Users/TPSharedDevices/Desktop/Linkedin Scann.suite/Sessions/20161019_100504.004/Screen0026.png\"}]";
+    generatedCommands = (
+	"RightClick \"image0001\"",
+	"RightClick \"\"",
+	"Click \"\"",
+	"Click \"\"",
+	"RightClick \"\"",
+	"Click \"\"",
+	"Click \"\"",
+	"RightClick \"\"",
+	"Click \"\"",
+	"Drag \"\"",
+	"Drop \"\"",
+	"RightClick \"\"",
+	"Click \"\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0001.png"
+	);
+    };
+    unnamedImageCount = <*I12>;
+}

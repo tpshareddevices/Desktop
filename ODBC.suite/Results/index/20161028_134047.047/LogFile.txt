@@ -1,0 +1,3 @@
+﻿2016-10-28 13:40:47.047 -0600	START		Running index.script
+2016-10-28 13:40:47.047 -0600	EndTestCase		(Duration:"0.199", Errors:"1", Exceptions:"0", StartTime:"2016-10-28 13:40:47 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-10-28 13:40:47.047 -0600	FAILURE		STDatabaseError Can't connect to database: clubDB -- Execution Time 0:00:00 index.script
